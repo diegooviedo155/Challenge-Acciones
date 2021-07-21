@@ -39,9 +39,9 @@ No llegue a terminar la parte del grafico, me consto un poco más.
 
 ### bugs
 
-El primero para registrarte primero hay que darle al boton Login y luego Registar
+El primero para registrarte primero hay que darle al boton Login y luego Registar (SOLUCIONADO)
 
-Para poder loguearse, si o si necesitas registrate primero y luego le das al boton loguearse.
+Para poder loguearse, si o si necesitas registrate primero y luego le das al boton loguearse. (SOLUCIONADO)
 
 Cuando recargas la pagina hay que volver a iniciar sesion.
 
